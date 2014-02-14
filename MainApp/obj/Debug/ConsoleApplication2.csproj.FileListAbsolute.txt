@@ -1,0 +1,9 @@
+c:\users\riris\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+c:\users\riris\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+c:\users\riris\documents\visual studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\riris\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\riris\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\MainApp.exe.config
+C:\Users\riris\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\MainApp.exe
+C:\Users\riris\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\bin\Release\MainApp.pdb
+C:\Users\riris\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\MainApp.exe
+C:\Users\riris\Documents\Visual Studio 2013\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\MainApp.pdb
